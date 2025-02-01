@@ -1,5 +1,4 @@
 {
-    "title": "Developing a Small-Scale Financial Language Model",
     "team": [
         {
             "name": "Kasuni Hansachapa",
@@ -17,6 +16,11 @@
             "email": "roshanr@eng.pdn.ac.lk"
         }
     ],
-    "description": "This project focuses on developing a small-scale financial language model to analyze, predict, and interpret financial data, enhancing decision-making through natural language processing and machine learning techniques.",
+    "media" : [
+        {
+            "type": "youtube",
+            "title": "",
+            "url": "#"
+        }
     "tags": ["Final Year Projects"]
 }

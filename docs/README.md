@@ -242,7 +242,7 @@ While larger models like BloombergGPT offer superior accuracy, smaller models (e
 
 ## Methodology
 
-<img src="image/image.png" alt="Description" width="500">
+<img src="images/im.png" alt="Description" width="500">
 
 ## Experiment Setup and Implementation
 

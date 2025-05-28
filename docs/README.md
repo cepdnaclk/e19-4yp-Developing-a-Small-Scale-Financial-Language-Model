@@ -242,7 +242,7 @@ While larger models like BloombergGPT offer superior accuracy, smaller models (e
 
 ## Methodology
 
-<img src="https://github.com/cepdnaclk/e19-4yp-Developing-a-Small-Scale-Financial-Language-Model/blob/main/docs/images/im.png" alt="Desc" width="600">
+<img src="https://raw.githubusercontent.com/cepdnaclk/e19-4yp-Developing-a-Small-Scale-Financial-Language-Model/main/docs/images/im.png" alt="Desc" width="600">
 
 ## Experiment Setup and Implementation
 

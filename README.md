@@ -28,29 +28,21 @@ This study develops a Small Language Model (SLM) to process financial data at LE
 
 ### Key Steps
 
-- 📥 **Data Collection**  
-  - Audited financial reports, balance sheets, internal spreadsheets
+- 📥 **Data Collection** - Audited financial reports, balance sheets, internal spreadsheets
 
-- 🧹 **Preprocessing**  
-  - Tokenization, normalization, and formatting for model ingestion
+- 🧹 **Preprocessing** - Tokenization, normalization, and formatting for model ingestion
 
-- 🧠 **Model Selection**  
-  - Choose and experiment with SLMs: TinyLLaMA, FinGPT, OpenELM
+- 🧠 **Model Selection** - Choose and experiment with SLMs: TinyLLaMA, FinGPT, OpenELM
 
-- 🛠️ **Fine-Tuning with QLoRA**  
-  - Apply quantization-aware low-rank adaptation
+- 🛠️ **Fine-Tuning with QLoRA** - Apply quantization-aware low-rank adaptation
 
-- ⚙️ **Optimization**  
-  - Apply pruning, quantization, and distillation for efficiency
+- ⚙️ **Optimization** - Apply pruning, quantization, and distillation for efficiency
 
-- 📚 **RAG Integration**  
-  - Connect to local knowledge base for hallucination control
+- 📚 **RAG Integration** - Connect to local knowledge base for hallucination control
 
-- 🧪 **Evaluation**  
-  - Use BLEU, ROUGE, MAE, hallucination score, and latency metrics
+- 🧪 **Evaluation** - Use BLEU, ROUGE, MAE, hallucination score, and latency metrics
 
-- 🚀 **Deployment**  
-  - Secure REST API hosted on LEARN internal servers
+- 🚀 **Deployment**  - Secure REST API hosted on LEARN internal servers
 
 ## 📄 Publications
 

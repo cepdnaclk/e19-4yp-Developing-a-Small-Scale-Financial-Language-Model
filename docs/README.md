@@ -251,14 +251,9 @@ While larger models like BloombergGPT offer superior accuracy, smaller models (e
 ## Conclusion
 
 ## Publications
-[//]: # "Note: Uncomment each once you uploaded the files to the repository"
 
-<!-- 1. [Semester 7 report](./) -->
-<!-- 2. [Semester 7 slides](./) -->
-<!-- 3. [Semester 8 report](./) -->
-<!-- 4. [Semester 8 slides](./) -->
-<!-- 5. Author 1, Author 2 and Author 3 "Research paper title" (2021). [PDF](./). -->
-
+1. [Literature Review Paper](docs/publications/Literature_Review_Paper.pdf)
+2. [Project Proposal](docs/publications/Project_Proposal.pdf)
 
 ## Links
 

@@ -252,7 +252,7 @@ This experimental setup was designed to evaluate the effectiveness of a small-sc
 - **Operating Systemr**:	Ubuntu 24.04.2 LTS (Noble Numbat)
 - **Processor**:	Intel(R) Core(TM) i7-8700B CPU @ 3.20GHz
 - **CPU Cores**:	8 cores (1 thread per core)
-- **Memory (RAM)**:	24 GB (as previously mentioned)
+- **Memory (RAM)**:	24 GB
 - **Disk Space**:	28.37 GB (32.7% used)
 - **Architecture**:	x86_64 (64-bit)
 - **Virtualization**:	Running under KVM (full virtualization)

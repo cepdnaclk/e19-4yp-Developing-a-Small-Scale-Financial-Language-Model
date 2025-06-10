@@ -284,6 +284,8 @@ This architecture enables domain-grounded answers and minimizes hallucination in
 
 1. [Literature Review Paper](docs/publications/Literature_Review_Paper.pdf)
 2. [Project Proposal](docs/publications/Project_Proposal.pdf)
+3. [Semester7 Presentation](docs/publications/sem7.pdf)
+4. [Interim Presentation](docs/publications/E1931.pdf)
 
 ## Links
 
